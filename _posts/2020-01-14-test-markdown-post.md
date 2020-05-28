@@ -92,7 +92,7 @@ key: value
 
 ## Tweetcards
 ```
-{% twitter https://twitter.com/jeremyphoward/status/1249698787666399235 %}
+Gaahhhh! Had to delete tag (not even commenting out fixes the problem)
 ```
 
 ## Footnotes
